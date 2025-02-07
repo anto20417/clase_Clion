@@ -1,0 +1,11 @@
+# ninja log v6
+6	1260	7600491219965863	CMakeFiles/verificaPrimeraLetra.dir/verificaPrimeraLetra.cpp.obj	4770d15e8f9d8369
+1001	1556	7600495690024212	verificaAprobado.exe	292f5df4fb7f2cc3
+1342	1976	7600491233328363	verificaPrimeraLetra.exe	2db2be40a4356cc4
+6	998	7600495680071606	CMakeFiles/verificaAprobado.dir/verificaAprobado.cpp.obj	59cb56733c3a14ac
+8	1217	7600496839131018	CMakeFiles/verificaCandidato.dir/verificaCandidato.cpp.obj	b3bd7acb0ffc24b3
+1221	1843	7600496851254317	verificaCandidato.exe	dda7a883726d45b1
+8	1143	7600497661984723	CMakeFiles/evaluacionCalificacion.dir/evaluacionCalificacion.cpp.obj	b6fa6b64b421f783
+1147	1751	7600497673376934	evaluacionCalificacion.exe	d7ebcae5ba3ae1a9
+9	1149	7600498157810303	CMakeFiles/verificaPositivo.dir/verificaPositivo.cpp.obj	6d493ceeba45bb9b
+1153	1765	7600498169243571	verificaPositivo.exe	fea8ad404bac3b69

@@ -1,0 +1,3 @@
+C:/Users/anto20417/Desktop/CLionProjects/PrimerPrograma/cmake-build-debug/CMakeFiles/PrimerPrograma.dir
+C:/Users/anto20417/Desktop/CLionProjects/PrimerPrograma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anto20417/Desktop/CLionProjects/PrimerPrograma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
